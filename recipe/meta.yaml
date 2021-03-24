@@ -1,5 +1,5 @@
 {% set name = "urlscan" %}
-{% set version = "0.9.5" %}
+{% set version = "0.9.6" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/urlscan-{{ version }}.tar.gz
-  sha256: a2fb7513c8b6bf11d796d16353517b549f0070b08e2e9cf16ce482ab72e46c1f
+  sha256: eafd8b335dbcf0aad33d4baece72d218633c24cc8f1119c7ba2e110bdb899d26
 
 build:
   number: 0
