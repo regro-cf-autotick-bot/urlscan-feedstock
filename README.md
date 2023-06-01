@@ -1,11 +1,11 @@
-About urlscan
-=============
+About urlscan-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/urlscan-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/firecat53/urlscan
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/urlscan-feedstock/blob/main/LICENSE.txt)
 
 Summary: View/select the URLs in an email message or file
 
